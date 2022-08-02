@@ -104,7 +104,7 @@ Existen muchas otras configuraciones de Git que puedes encontrar en el comando g
 - `git reset --hard 'commit'`: borra toda la información que tengamos en el área de Staging. (Perdiendo todo para siempre).
 
 - `git checkout master 'archivo.txt'`: volvemos a la versión madre.
-
+z
 ## Ramas o branches
 
 Las ramas son la forma de hacer cambios en nuestro proyecto sin afectar el flujo de trabajo de la rama principal. Esto porque queremos trabajar una parte muy específica de la aplicación o simplemente experimentar.
